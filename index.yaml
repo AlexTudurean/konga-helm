@@ -8,6 +8,6 @@ entries:
     digest: 7a86b10611be170bb9bda34cac62a78b9aa501de9d44dd8e965144297757b1f1
     name: konga
     urls:
-    - https://github.com/AlexTudurean/konga-helm/konga-1.0.0.tgz
+    - https://alextudurean.github.io/konga-helm/konga-1.0.0.tgz
     version: 1.0.0
 generated: "2023-07-20T13:17:56.079677+03:00"
